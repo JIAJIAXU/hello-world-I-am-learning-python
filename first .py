@@ -1,0 +1,5 @@
+print(1 + 2)
+print("i am a boy")
+print("我爱你")
+print("我爱你姚盼")
+print("woaini")
