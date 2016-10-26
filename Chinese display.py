@@ -30,5 +30,4 @@ print('Age: %s. Gender: %s' % (25, True))
 print('Hello, %s' % 'world')
 print('%03d-%03d' % (3, 1))
 print('%.3f' % 3.1415926)
-PRIN
-DSD
+print("2737287")
