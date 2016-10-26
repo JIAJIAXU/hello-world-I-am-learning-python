@@ -1,6 +1,6 @@
 from math import sqrt
 if False:
-    print("我爱你"),
+    print("我爱你姚盼"),
     print(3 > 2),
     print('包含中文的str'),
     print(ord('a')),
